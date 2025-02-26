@@ -1,5 +1,5 @@
 const API_ENDPOINT = 'https://api.openai.com/v1/completions';
-const API_KEY = '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';
+const API_KEY = ''; // api key here 
 const model = 'gpt-3.5-turbo';
 
 function sendMessage() {
